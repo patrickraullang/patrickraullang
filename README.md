@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Welcome to my corner of GitHub! Here's a sneak peek into my digital playground:
+
+🔭 Currently weaving my magic on 2 projects outside university and conjuring up another for my master's degree.
+🌱 Hoping to cultivate my skills in web development and cloud architecture.
+😄 Still a ways off from being the coding wizard I aspire to be, but hey, the journey's half the fun, right?
+
 <!--
 **patrickraullang/patrickraullang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
