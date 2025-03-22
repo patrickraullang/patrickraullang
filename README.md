@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning **Flutter, Nextjs and threejs**
 ___
 <br>
-<br>
 
 ###
 
@@ -62,8 +61,6 @@ ___
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/patrickraullang/patrickraullang/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/patrickraullang/patrickraullang/output/pacman-contribution-graph.svg">
 </picture>
-
-<br>
 <br>
 ___
 
