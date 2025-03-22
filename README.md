@@ -1,16 +1,10 @@
 <h2 align="left">Hi 👋! My name is Patrick</h2>
 
 
-<h3 align="left">I am a master student, frontend developer and UI/UX designer <br>from Germany</h3>
+<h3 align="left">I am a master student, frontend developer and UI/UX designer from Germany</h3>
 
 
 - 🌱 I’m currently learning **Flutter, Nextjs and threejs**
-
-<div align="right">
-  <a href="https://open.spotify.com/user/repangtv">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=repangtv&count=1" alt="Spotify recently played"  />
-  </a>
-</div>
 ___
 
 ###
@@ -72,5 +66,11 @@ ___
 
 ###
 ___
+
+<div align="left">
+  <a href="https://open.spotify.com/user/repangtv">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=repangtv&count=1" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
