@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Patrick and I'm a Master Student, from Germany</h2>
+<h2 align="left">Hi 👋! My name is Patrick and i am a master student from Germany</h2>
 
 ###
 
