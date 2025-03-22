@@ -1,5 +1,10 @@
 <h2 align="left">Hi 👋! My name is Patrick and i am a master student from Germany</h2>
 
+<h3 align="left">A master student, frontend developer and UI/UX designer from Germany</h3>
+
+- 🌱 I’m currently learning **Flutter, Nextjs and threejs**
+
+
 ###
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/9c/fc/01/9cfc0161f686824806fb2858bc383f7e.gif"  />
