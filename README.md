@@ -1,7 +1,7 @@
-<h2 align="left">Hi 👋! My name is Patrick and i am a master student from Germany</h2>
+<h2 align="left">Hi 👋! My name is Patrick</h2>
 
 
-<h3 align="left">A master student, frontend developer and UI/UX designer from Germany</h3>
+<h3 align="left">I am a master student, frontend developer and UI/UX designer from Germany</h3>
 
 
 - 🌱 I’m currently learning **Flutter, Nextjs and threejs**
