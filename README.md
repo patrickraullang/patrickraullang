@@ -5,6 +5,12 @@
 
 
 - 🌱 I’m currently learning **Flutter, Nextjs and threejs**
+
+<div align="right">
+  <a href="https://open.spotify.com/user/repangtv">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=repangtv&count=1" alt="Spotify recently played"  />
+  </a>
+</div>
 ___
 
 ###
@@ -66,11 +72,5 @@ ___
 
 ###
 ___
-
-<div align="left">
-  <a href="https://open.spotify.com/user/repangtv">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=repangtv&count=1" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
