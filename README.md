@@ -36,6 +36,7 @@ ___
   <img width="12" />
 </div>
 
+
 ###
 
 <div align="left">
@@ -60,7 +61,10 @@ ___
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/patrickraullang/patrickraullang/output/pacman-contribution-graph.svg">
 </picture>
 
+___
+
 ###
+
 
 <div align="left">
   <a href="https://open.spotify.com/user/repangtv">
