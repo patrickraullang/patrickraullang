@@ -63,11 +63,10 @@ ___
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/patrickraullang/patrickraullang/output/pacman-contribution-graph.svg">
 </picture>
 <br>
-_______________________________________________________________________________________________________________
 <br>
 
 ###
-
+___
 
 <div align="left">
   <a href="https://open.spotify.com/user/repangtv">
