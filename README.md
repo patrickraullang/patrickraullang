@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Patrick</h2>
-<h3 align="left">I am a frontend developer and UI/UX designer from Germany</h3>
+<h3 align="left">I am a developer and UI/UX engineer from Germany</h3>
 
 <p>- 🌱 I’m currently learning <b>Flutter, Next.js and three.js</b></p>
 <hr/>
